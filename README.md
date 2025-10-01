@@ -9,7 +9,7 @@ Acesse meu portfólio em:
   "gitfolio": "on",
   "name": "Caio Cezar Guedes de Queiroz",
   "email": "caio.cezar.dequeiroz@gmail.com",
-  "tagline": "Front-end Devoloper, FullStack Developer",
+  "tagline": "Fullstack Developer, Frontend & Backend, Node.js, React, Next.js, TypeScript, Firebase, NoSQL, Clean Architecture, AI-assisted Development, Software Engineer, DevOps Awareness",
   "avatar_url": "https://avatars.githubusercontent.com/u/61844259?v=4",
   "website": "",
   "githubUser": "ccqueiroz",
