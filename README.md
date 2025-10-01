@@ -19,7 +19,7 @@ Acesse meu portfólio em:
   "showFollowers": true,
   "followers": 9,
   "following": 30,
-  "themeId": "professional",
+  "themeId": "cyberpunk",
   "tech": [
   "React",
   "NodeJs",
